@@ -1,0 +1,106 @@
+body{
+  margin: 0;
+
+  width:auto;
+
+
+}
+
+header{
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  background-image: url(yakei.jpg);
+  height: 800px;
+  background-size: cover;
+
+}
+
+.header-list{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  width:auto;
+  padding: 0 100px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.content{
+  margin-top: 0px;
+  /* background-color: black; */
+  background-color: rgba(0,0,0,0.9);
+}
+
+h2{
+    margin: 0px;
+    height:70px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.aboutass{
+  background-color: black;
+  color:white;
+  margin-top: 0px;
+}
+
+.victims{
+  width:auto;
+  display: flex;
+  justify-content: space-between;
+  /* width:1000px; */
+  height:300px;
+}
+
+.tomoyasu{
+  background-image: url(tomoyasu.jpg);
+  background-size: cover;
+}
+
+.raku{
+  background-image: url(rak.jpg);
+  background-size: cover;
+}
+.dragon{
+  background-image: url(ryuki.jfif);
+  background-size: cover;
+}
+
+.item{
+  width: 32.5%;
+}
+
+.schejule{
+  background-image: url(studio.jpg);
+  background-size: cover;
+  height: 500px;
+  text-align: center;
+}
+
+p{
+  margin:0;
+}
+
+.disco{
+  display: flex;
+  height: 500px;
+  /* background-size: cover; */
+  background-color: black;
+}
+
+.first{
+  background-image: url(life.jpg);
+  width: 50%;
+  background-size: contain;
+}
+
+.second{
+  background-image: url(shengrong.jpg);
+  width: 50%;
+  background-size: contain;
+  margin-left: 185px;
+}
+
+.schejule p{
+  padding:40px;
+  font-size:30px
+}
